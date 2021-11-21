@@ -16,7 +16,7 @@ const Gifts = ({items}) => {
         {items && items.map(i => (
              <Grid item xs={3} sm={3} md={3} lg={3} key={i.id}>
         
-                 <Card >
+                 <Card>
                      <CardHeader title={i.name}>
                         
                     </CardHeader>

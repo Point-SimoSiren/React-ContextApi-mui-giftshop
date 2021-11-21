@@ -1,9 +1,8 @@
 {
     "gifts":
 
-    [{"id": 1, "name": "Mariskooli"}, {"id": 2, "name": "Gaarvilohi"}
-    , {"id": 3, "name": "Graavilohi"}, {"id": 4, "name": "Gaarvilohi"}, {"id": 5, "name": "Gaarvilohi"},
-    {"id": 6, "name": "Gaarvilohi"}
-    , {"id": 7, "name": "Gaarvilohi"}, {"id": 8, "name": "Gaarvilohi"}
+    [{"id": 1, "name": "Mariskooli"}, {"id": 2, "name": "Graavilohi"}
+    , {"id": 3, "name": "Itämeren makuristeily"}, {"id": 4, "name": "J. Marttini puukko"}, {"id": 5, "name": "Police aurinkolasit"},
+    {"id": 6, "name": "Akkuporakone"}
     ]
 }

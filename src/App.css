@@ -1,10 +1,21 @@
 .App {
   text-align: center;
+  margin-left: 10%;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+#cart {
+  max-width: 40%;
+  
+}
+
+#navbuttons {
+ margin-left: 30%;
+ margin-bottom: 3%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
